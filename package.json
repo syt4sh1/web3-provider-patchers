@@ -1,0 +1,22 @@
+{
+  "name": "web3-provider-patchers",
+  "version": "1.0.0",
+  "description": "How to create a custom Web3 provider using the web3-provider-engine library and apply patchers from web3-provider-patchers for enhanced Ethereum interaction.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "syt4sh1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/web3-provider-patchers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syt4sh1/web3-provider-patchers/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/web3-provider-patchers#readme"
+}
